@@ -12,7 +12,7 @@ let cartContainer = document.getElementById('cartContainer')
 let boxContainerDiv = document.createElement('div')
 boxContainerDiv.id = 'boxContainer'
 
-// DYNAMIC CODE TO SHOW THE SELECTED ITEMS IN YOUR CART
+//CODE TO SHOW THE SELECTED ITEMS IN YOUR CART
 function dynamicCartSection(ob,itemCounter)
 {
     let boxDiv = document.createElement('div')
